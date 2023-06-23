@@ -1,1 +1,1 @@
-# back_grupo_de_estudos
+# grupo-de-estudos-API
